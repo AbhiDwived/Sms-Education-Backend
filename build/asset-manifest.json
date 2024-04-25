@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.84763676.css",
-    "main.js": "/static/js/main.40641907.js",
-    "static/js/703.9988440b.chunk.js": "/static/js/703.9988440b.chunk.js",
-    "static/js/513.23a8679b.chunk.js": "/static/js/513.23a8679b.chunk.js",
-    "static/js/787.12f1f7f8.chunk.js": "/static/js/787.12f1f7f8.chunk.js",
+    "main.css": "/static/css/main.86bc8d5e.css",
+    "main.js": "/static/js/main.147a10b1.js",
+    "static/js/213.dcb65dca.chunk.js": "/static/js/213.dcb65dca.chunk.js",
+    "static/js/667.364ac51e.chunk.js": "/static/js/667.364ac51e.chunk.js",
+    "static/js/453.eecd4087.chunk.js": "/static/js/453.eecd4087.chunk.js",
     "static/media/Prabhat-kumar Sharma-(Teacher).png": "/static/media/Prabhat-kumar Sharma-(Teacher).691fb9a9e3cd690eac0c.png",
     "static/media/StudentLogin.jpg": "/static/media/StudentLogin.9e745818a9f6163bf6d3.jpg",
     "static/media/premise7.JPG": "/static/media/premise7.97b4ea5c111da3cde241.JPG",
@@ -56,14 +56,14 @@
     "static/media/join-student.png": "/static/media/join-student.2e4364285f5da7722224.png",
     "static/media/avatar.jpg": "/static/media/avatar.5d9ea6317191df85e1b9.jpg",
     "index.html": "/index.html",
-    "main.84763676.css.map": "/static/css/main.84763676.css.map",
-    "main.40641907.js.map": "/static/js/main.40641907.js.map",
-    "703.9988440b.chunk.js.map": "/static/js/703.9988440b.chunk.js.map",
-    "513.23a8679b.chunk.js.map": "/static/js/513.23a8679b.chunk.js.map",
-    "787.12f1f7f8.chunk.js.map": "/static/js/787.12f1f7f8.chunk.js.map"
+    "main.86bc8d5e.css.map": "/static/css/main.86bc8d5e.css.map",
+    "main.147a10b1.js.map": "/static/js/main.147a10b1.js.map",
+    "213.dcb65dca.chunk.js.map": "/static/js/213.dcb65dca.chunk.js.map",
+    "667.364ac51e.chunk.js.map": "/static/js/667.364ac51e.chunk.js.map",
+    "453.eecd4087.chunk.js.map": "/static/js/453.eecd4087.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84763676.css",
-    "static/js/main.40641907.js"
+    "static/css/main.86bc8d5e.css",
+    "static/js/main.147a10b1.js"
   ]
 }
