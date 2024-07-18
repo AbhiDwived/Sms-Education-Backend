@@ -389,11 +389,12 @@ const getAssignment = async (req, res) => {
 const createAssignment = async (req, res) => {
   const { title, instructions, due_date, contact_instructor, upload } =
     req.body;
+    const uploads = req.file.filename;
   let data = new assignment_Schema({
     title,
     instructions,
     due_date,
-    upload,
+    upload: uploads,
     contact_instructor,
   });
 

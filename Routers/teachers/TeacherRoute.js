@@ -174,8 +174,8 @@ Router.route("/result/upload/student/:id").get(GetResultUploadStudent);
 
 /**ADD ASSignmenyt */
 
-//  Router.route('/assign').post(assignment_upload.single('upload',{name:"upload"}),createAssignment);
-Router.post("/assign", createAssignment);
+Router.route('/assign').post(assignment_upload.single('upload',{name:"upload"}),createAssignment);
+// Router.post("/assign", assignment_upload.single('uploads'),createAssignment);
 Router.route("/assign/:contact_instructor").put(putAssignment);
 Router.route("/assign/:contact_instructor").delete(delAssignment);
 Router.route("/assign").get(getAssignment);
